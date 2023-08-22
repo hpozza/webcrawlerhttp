@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project to learn HTTP",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpozza/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpozza/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/hpozza/webcrawlerhttp#readme",
+  "dependencies": {
+    "jest": "^29.6.3"
+  }
+}
