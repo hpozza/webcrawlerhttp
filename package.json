@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/hpozza/webcrawlerhttp#readme",
   "dependencies": {
-    "jest": "^29.6.3"
+    "jest": "^29.6.3",
+    "jsdom": "^22.1.0"
   }
 }
